@@ -1,4 +1,4 @@
-## Excel Time Sheet Generator
+# Excel Time Sheet Generator
 
 This program will takes the find user's hours from Harvest Time Track website. Then modify the existing Excel time sheet.
 
